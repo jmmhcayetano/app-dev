@@ -22,10 +22,11 @@
   - Lee Jong-suk as Kang Cheol
 
  #
- 
-  # Scarlet Heart Ryeo ❤️
+ ## Second Kdrama
+  
  ![2016_08_26_10575_1472193627 _large](https://github.com/jmmhcayetano/app-dev/assets/151894013/1eb2486c-a937-4006-a73a-e39e980dda42)
 
+# Scarlet Heart Ryeo ❤️
 
 
 ## Synopsis
