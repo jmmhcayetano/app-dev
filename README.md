@@ -1,10 +1,13 @@
 # app-dev
  My first repository.
- # K-Drama Recommendations 🌟
+ # My Favorite Kdrama Series 🌟
 
-## Introduction
+![w-two-worlds-w-two-worlds-gzgg6jwi](https://github.com/jmmhcayetano/app-dev/assets/151894013/6ab198ea-cffd-4742-8eb0-5ed8c3cb8dbc)
 
-Dive into the enchanting universe of Korean dramas, where gripping tales are interwoven with cultural richness. Explore our handpicked selection of must-watch K-dramas that promise an immersive and emotional journey.
+## Synopsis
+
+"Two Worlds" is a captivating Kdrama series that seamlessly blends fantasy and romance. The story revolves around a parallel universe where the characters from a webtoon come to life. As the protagonist navigates the challenges of existence in both worlds, viewers are taken on an emotional rollercoaster filled with suspense and love.
+
 
 ## Romantic Dramas 💖
 
