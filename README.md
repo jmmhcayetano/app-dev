@@ -2,7 +2,7 @@
  My first repository.
  # My Favorite Kdrama Series 🌟
 
-1. ![w-two-worlds-w-two-worlds-gzgg6jwi](https://github.com/jmmhcayetano/app-dev/assets/151894013/6ab198ea-cffd-4742-8eb0-5ed8c3cb8dbc)
+![w-two-worlds-w-two-worlds-gzgg6jwi](https://github.com/jmmhcayetano/app-dev/assets/151894013/6ab198ea-cffd-4742-8eb0-5ed8c3cb8dbc)
 
 # Two Worlds - W 
 
@@ -21,11 +21,12 @@
   - Han Hyo-joo as Oh Yeon-joo
   - Lee Jong-suk as Kang Cheol
 
+ #
  
-2. ![2016_08_26_10575_1472193627 _large](https://github.com/jmmhcayetano/app-dev/assets/151894013/1eb2486c-a937-4006-a73a-e39e980dda42)
+  # Scarlet Heart Ryeo ❤️
+ ![2016_08_26_10575_1472193627 _large](https://github.com/jmmhcayetano/app-dev/assets/151894013/1eb2486c-a937-4006-a73a-e39e980dda42)
 
 
- # Scarlet Heart Ryeo ❤️
 
 ## Synopsis
 
